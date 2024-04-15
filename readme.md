@@ -3,7 +3,7 @@
 ![Built with](https://img.shields.io/pypi/pyversions/Django) 
 
 
-Este projeto é uma aplicação web para gerenciamento de ponto eletrônico lista de contatos, desenvolvida utilizando Django para o backend, Next.js para o frontend, e Docker com Docker Compose para orquestração de containers. O banco de dados utilizado é o PostgreSQL.
+Este projeto é uma aplicação web para gerenciamento de ponto eletrônico, desenvolvida utilizando Django para o backend, Next.js para o frontend, e Docker com Docker Compose para orquestração de containers. O banco de dados utilizado é o PostgreSQL.
 
 ![](https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/18f67a6f-c8fa-4903-1589-afde824de800/w=400)
 
